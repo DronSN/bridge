@@ -2,7 +2,6 @@ package ru.skvrez.bridge_example.player;
 
 import ru.skvrez.bridge_example.shared.PopSong;
 import ru.skvrez.bridge_example.shared.Song;
-
 import java.util.List;
 
 public class LinuxPlayer implements Player {
